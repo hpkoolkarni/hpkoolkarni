@@ -1,7 +1,7 @@
 [![MasterHead](https://as1.ftcdn.net/v2/jpg/02/21/97/86/1000_F_221978639_EyPBA9tuscYhW6rhaO5EiVzdG8hvQSgV.jpg)](https://www.linkedin.com/in/haripriyakulkarni/)
 <h1 align="center">Hi 👋, I'm Haripriya Kulkarni</h1>
 <h3 align="center">I'm a curious, passionate engineer who loves problem solving and has interest in development</h3>
-<iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">via GIPHY</a></p>
+<p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">via GIPHY</a></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hpkoolkarni&label=Profile%20views&color=0e75b6&style=flat" alt="hpkoolkarni" /> </p>
 
 
