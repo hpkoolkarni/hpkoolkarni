@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [INC](https://pictinc.org/)
 
-- 🌱 I’m currently learning **React, NodeJS, Firebase**
+- 🌱 I’m currently learning **GenAI**
 
 - 📫 How to reach me **haripriyakulkarni13@gmail.com**
 
